@@ -85,7 +85,7 @@ The primary goal of this course is to provide a thorough understanding of machin
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/adlbgr/AI-adventure.git
+    git clone https://github.com/adlbgr/MachineLearning-DeepLearning-Adventure.git
     ```
 2. Navigate to the relevant day's folder to find the materials, code, and resources for that day's topic.
 3. Follow the instructions in the Jupyter notebooks or scripts to run the code and understand the concepts.
